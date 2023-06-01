@@ -1,0 +1,10 @@
+http://login.afrapro.in/api/mt/SendSMS?user=dineshmehta1508@gmail.com&password=12345678
+&senderid=DPMPRT&channel=Trans&DCS=0&flashsms=0&number=919096016308
+&text=Dear Pankaj ! Your GHI POLICY_NO with Premium of Rs. 0 from Aditya Birla Health Insurance 
+is now active till Date. Access COI on http://localhost .Call 18002707000 for help. Access Network Hospital 
+list on shorturl.at/sCEH0 Thanks DPMPRT&route=15&DLTTemplateId=1207163031484175403&PEID=1201159724306525673
+
+
+Dear RAMESH R ! Your GHI GHI-TB-OL-21-IN5732712 with Premium of Rs. 19763 from ABHI is active till 
+16-Jul-22 . Access COI on link .Call 18002707000 for help. 
+pfm.contisofttechno.com/pdms/backend/uploads/1629988045352/GHI-TB-OL-21-IN5732712.PDF Thanks DPMPRT
