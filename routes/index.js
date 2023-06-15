@@ -35,6 +35,6 @@ router.get('/sms-repeater', SenderController.sms_repeater);
 router.get('/wapp-repeater', SenderController.wapp_repeater);
 router.get('/tester', SenderController.email_test);
 
-
+router.use('/ftp_file', require('./ftpfile_upload.route'));
 
 module.exports = router;

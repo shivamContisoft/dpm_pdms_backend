@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://localhost:8008/api/ftp_file/download_docs?policies=GHI-TB-OL-21-IN5802974,GHI-TB-OL-21-IN5802973,GHI-TB-OL-21-IN5802972,GHI-TB-OL-21-IN5802969,GHI-TB-OL-21-IN5802968,GHI-TB-OL-21-IN5802965,GHI-TB-OL-21-IN5802957",
+            "request": "launch",
+            "url": "http://localhost:8008/api/ftp_file/download_docs?policies=GHI-TB-OL-21-IN5802974,GHI-TB-OL-21-IN5802973,GHI-TB-OL-21-IN5802972,GHI-TB-OL-21-IN5802969,GHI-TB-OL-21-IN5802968,GHI-TB-OL-21-IN5802965,GHI-TB-OL-21-IN5802957"
+        }
+    ]
+}
